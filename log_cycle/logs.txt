@@ -1,0 +1,10 @@
+ERROR: The number 31 is between this range (30, 39) - 2021-01-23 16:38:24,579
+CRITICAL: The number 40 is between this range (40, 50) - 2021-01-23 16:38:24,579
+ERROR: The number 34 is between this range (30, 39) - 2021-01-23 16:38:24,580
+INFO: The number 19 is between this range (10, 19) - 2021-01-23 16:38:24,580
+DEBUG: The number 3 is between this range (0, 9) - 2021-01-23 16:38:24,580
+INFO: The number 17 is between this range (10, 19) - 2021-01-23 16:38:24,580
+CRITICAL: The number 41 is between this range (40, 50) - 2021-01-23 16:38:24,580
+CRITICAL: The number 41 is between this range (40, 50) - 2021-01-23 16:38:24,581
+DEBUG: The number 7 is between this range (0, 9) - 2021-01-23 16:38:24,581
+ERROR: The number 34 is between this range (30, 39) - 2021-01-23 16:38:24,581

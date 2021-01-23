@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "name": "temperature.png",
+      "link": "https://imgs.xkcd.com/s/temperature.png"
+    },
+    {
+      "name": "solar.png",
+      "link": "https://imgs.xkcd.com/comics/solar_system_compression_artifacts.png"
+    },
+    {
+      "name": "0b7742.png",
+      "link": "https://xkcd.com/s/0b7742.png"
+    },
+    {
+      "name": "a899e84.jpg",
+      "link": "https://imgs.xkcd.com/s/a899e84.jpg"
+    },
+    {
+      "name": "solar_system_compression_artifacts_2x.png",
+      "link": "https://imgs.xkcd.com/comics/solar_system_compression_artifacts_2x.png"
+    },
+    {
+      "name": "blm.png",
+      "link": "https://imgs.xkcd.com/news/blm.png"
+    },
+    {
+      "name": "a899e84.jpg",
+      "link": "https://imgs.xkcd.com/s/a899e84.jpg"
+    },
+    {
+      "name": "blank.jpg",
+      "link": "https://s0.wp.com/i/blank.jpg"
+    },
+    {
+      "name": "content-bookstore-part-1.jpg",
+      "link": "https://blogdotxkcddotcom.files.wordpress.com/2019/08/content-bookstore-part-1.jpg"
+    },
+    {
+      "name": "collage.jpg",
+      "link": "https://blogdotxkcddotcom.files.wordpress.com/2019/08/collage.jpg"
+    }
+  ]
+}
