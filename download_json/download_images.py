@@ -1,4 +1,3 @@
-from fill_json import FillJson
 from concurrent.futures import ThreadPoolExecutor
 import logging
 import requests
