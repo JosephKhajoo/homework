@@ -18,7 +18,7 @@ def function_timer(filename="output.txt") -> callable:
 	return wrapper
 
 
-@function_timer()
+@function_timer("file.txt")
 def my_func(num):
 	a = [i ** 4 for i in range(num)]
 	return a
